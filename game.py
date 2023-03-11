@@ -42,3 +42,5 @@ if count >= math.log(upper - lower + 1, 2):
     print("\nThe number is %d" % x)
     print("\tBetter Luck Next time!")
 
+
+#code by **MANIKANTA**
